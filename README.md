@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/m4t1box" target="blank"><img src="https://img.shields.io/twitter/follow/m4t1box?logo=twitter&style=for-the-badge" alt="m4t1box" /></a> </p>
 
-- 🔭 I’m currently working on [gastry](https://github.com/matibox/gastry)
+- 🔭 I’m currently working on [gastry](https://github.com/matibox/gastry-t3)
 
 - 🌱 I’m currently learning **Next.js, tailwind**
 
