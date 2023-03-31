@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/m4t1box" target="blank"><img src="https://img.shields.io/twitter/follow/m4t1box?logo=twitter&style=for-the-badge" alt="m4t1box" /></a> </p>
 
-- 🔭 I’m currently working on [gastry](https://github.com/matibox/gastry-t3)
+- 🔭 I’m currently working on [race results app](https://github.com/matibox/race-results-app)
 
 - 🌱 I’m currently learning **Next.js, tailwind**
-
-- 👨‍💻 All of my projects are available at [https://mateuszhladky.netlify.app](https://mateuszhladky.netlify.app)
-
-- 💬 Ask me about **anything you want :D**
 
 - 📫 How to reach me **mateusz.hladky@gmail.com**
 
