@@ -5,18 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/m4t1box" target="blank"><img src="https://img.shields.io/twitter/follow/m4t1box?logo=twitter&style=for-the-badge" alt="m4t1box" /></a> </p>
 
-- 🔭 I’m currently working on [race results app](https://github.com/matibox/race-results-app)
-
-- 🌱 I’m currently learning **Next.js, tailwind**
-
-- 📫 How to reach me **mateusz.hladky@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m4t1box" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m4t1box" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17380366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17380366" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- html -->
